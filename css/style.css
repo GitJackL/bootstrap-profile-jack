@@ -17,7 +17,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url(/bootstrap-profile-jack/images/pexels-philippe-donn-1114688.jpg) !important;
+  background-image: url(/bootstrap-profile-jack/images/pexels-philippe-donn-1114688.jpg) ;
   background-repeat: no-repeat;
   background-size: cover;
 }
