@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  background-color:#007bff64!important;
+}
+
+.navbar {
+  height: 90px;
+  z-index: 100;
+  display: flex;
+}
+
+
+.brand-name-title {
+  font-family:'Nanum Gothic';
+  font-size: 100px;
+  display: flex;
+}
+
+.jumbotron {
+  background-image: url(/bootstrap-portfolio/images/pexels-philippe-donn-1114688.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+
+}
+
+.nav-link {
+  color: black !important;
+  border-color:  #007bff;
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(35,35,35);
+  border-radius: 2px;
+  cursor: pointer;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 35px;
+  margin-top: 18px;
+  font-family:'Nanum Gothic', sans-serif;
+  font-size: 20px;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+}
+
+.navbar-brand{
+  color:rgb(0, 0, 0) !important;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+
+
+.navbar{
+  background-color: black !important;
+}
+
+
+
+
+.navbar-expand-lg{
+background-color: black !important;
+}
+
+.navbar-light{
+background-color: black !important;
+} 
+
+.bg-light{
+background-color: black !important;
+}
+
+#navbar-style{
+  background-color: black;
+}
+
+.headline-title{
+  color: black !important;
+  border-color:rgb(42, 184, 255);
+  border-style: solid;
+  border-width: 2px;
+  color: rgb(35,35,35);
+  border-radius: 2px;
+  padding-left: 10px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 40px;
+  font-weight:100;
+  border-top: 1px;
+  border-left: 1px;
+  border-right: 1px;
+  margin-top: 12px;
+}
+
+
+#jumbo-card {
+  margin-top: 50px;
+  margin-left: 100px;
+width: 300px;
+background-color:rgba(211, 192, 47, 0.721) !important;
+}
+
+.btn{
+color: black !important;
+}
+
+.image-card-top{
+  object-fit: cover;
+}
+
+.display-4 , .lead {
+  background-color: rgba(211, 192, 47, 0.721);
+  display: flex;
+  justify-content: center;
+}
+
+
+.nav-link:hover {
+  transition: box-shadow 0.2s;
+  box-shadow:  5px 5px 10px rgb(0, 0, 0);
+  border: none;
+  background-color: #007bff;
+}
+
+.card {
+  background-color: rgba(211, 192, 47, 0.721)!important ;
+}
+
+
+.footer-box {
+  background-color:rgba(211, 192, 47);
+  display: flex;
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&family=Nerko+One&family=Pacifico&family=Playfair+Display:ital@0;1&family=Roboto+Slab:wght@600;700&family=Rubik+Vinyl&display=swap');
